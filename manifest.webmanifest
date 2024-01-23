@@ -1,0 +1,10 @@
+{
+    "icons": [
+        {
+            "scr": "/img/fav-icon/android-chrome-192x192",
+            "type": "image/png", "sizes": "192x192",
+            "scr": "/img/fav-icon/android-chrome-512x512",
+            "type": "image/png", "sizes": "512x512"
+        }
+    ]
+}
